@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69044483117",
+    "firebase_url": "https://myzek-fff99.firebaseio.com",
+    "project_id": "myzek-fff99",
+    "storage_bucket": "myzek-fff99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69044483117:android:8a22d3a7cc475eaee334a4",
+        "android_client_info": {
+          "package_name": "com.it.myzek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69044483117-ob89re9qoa9bq1jq54f0p51sjdecg0oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.it.myzek",
+            "certificate_hash": "159e3b61cbafc513821eb75a2531efe3d3f20572"
+          }
+        },
+        {
+          "client_id": "69044483117-j733vg2q5k0b768vhrbk76f1fctomci2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8ckTfCS_SCXRakg4uVsls0dW6QmZb_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69044483117-j733vg2q5k0b768vhrbk76f1fctomci2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
